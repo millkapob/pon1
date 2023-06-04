@@ -1,0 +1,31 @@
+body {
+    font-family: sans-serif;
+
+}
+
+h1 {
+    background-color:#8183ff;
+    padding: 10px;
+    color:#262885;
+}
+
+ul {
+    background-color: #fdff8191;
+    color: #000000;
+}
+h2 {
+    background-color:#8183ff;
+    padding: 10px;
+    color:#262885;
+}
+h3 {
+    background-color:#81ffa1;
+    padding: 10px;
+    color:#4c9e61;
+}
+
+footer {
+    background-color: #26288581;
+    padding: 20px;
+    color: #262885;
+}
